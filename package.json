@@ -2,7 +2,7 @@
   "name": "for-u",
   "version": "0.0.1",
   "description": "A Quasar Project",
-  "productName": "For You",
+  "productName": "ForYou",
   "author": "hwaung <102525421+kokim2022@users.noreply.github.com>",
   "private": true,
   "scripts": {
