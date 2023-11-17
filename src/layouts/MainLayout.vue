@@ -1,7 +1,7 @@
 <template>
   <div class="fixed-center">
     <q-btn
-      label="Please Click Me 😘"
+      label="Please Click Me"
       color="pink-5"
       @click="startCountdown"
       rounded
@@ -16,7 +16,7 @@
         class="text-white text-center q-pt-lg"
         style="height: 100px"
       >
-        <div class="text-h6">Please Wait My Love 😘</div>
+        <div class="text-h6">Please Wait ...</div>
       </q-card-section>
       <q-card-section style="height: 100px">
         <div class="text-h4 text-center">
